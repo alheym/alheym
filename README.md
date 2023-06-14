@@ -13,13 +13,52 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=alheym&style=flat-square&color=blue" alt=""/>  
-  <h1>hi there 
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-    <img src="https://media.giphy.com/media/0tTLUt1RJLVQ7avgTq/giphy.gif" width="100px"/></h1>
+  <h1>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&size=26&pause=1000&color=F79BB9FF&width=155&lines=>Hi+there!;I'm+Alheym" alt="Typing SVG" /></a>
+    <img src="https://media.giphy.com/media/0tTLUt1RJLVQ7avgTq/giphy.gif" width="100px"/>
+  </h1>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/G8TuKLhmkxRtel0tKv/giphy.gif"  height="300"/>
 </div>
 
+<div align="left">
+  <h2><img src="https://media.giphy.com/media/sFGSnuneX1lv1ScsFw/giphy.gif" width="50"/>About me : </h2>
+</div>
 
+My name's Anastasia, and my nickname is Alheym. I'm frontend developer from Russia<img src="https://media.giphy.com/media/UXFWIX08KNkBVdg5Iy/giphy.gif" width="50"/>  
+I'm only at the beginning of my career as a frontend developer, but I'm always looking for new challenges and opportunities to learn and grow in this direction.  
+I'm passionate about open source development, web development, web design, algorithms and graphic design.  
+In my free time, I like to knit sweaters and pet cats.  
+I'm excited to share my work on GitHub and collaborate with other members of the open source community.
 
+<div align="left">
+  <h2>
+    <img src="https://media.giphy.com/media/sFGSnuneX1lv1ScsFw/giphy.gif" width="50"/>Stack : </h2>
+  <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://en.vetores.org/d/vite-js-logo.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" height="40"/>&nbsp;
+	<img src="https://parceljs.org/avatar.b1be591d.avif" title="Parcel" alt="Parcel" width="40"/>&nbsp;
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+	<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
+</div>
+</div>
 <!--
 **alheym/alheym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
