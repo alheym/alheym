@@ -35,6 +35,7 @@ I'm excited to share my work on GitHub and collaborate with other members of the
 <div align="left">
   <h2>
     <img src="https://media.giphy.com/media/sFGSnuneX1lv1ScsFw/giphy.gif" width="50"/>Stack : </h2>
+</div>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -46,19 +47,27 @@ I'm excited to share my work on GitHub and collaborate with other members of the
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://en.vetores.org/d/vite-js-logo.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" height="40"/>&nbsp;
-	<img src="https://parceljs.org/avatar.b1be591d.avif" title="Parcel" alt="Parcel" width="40"/>&nbsp;
+  <img src="https://parceljs.org/avatar.b1be591d.avif" title="Parcel" alt="Parcel" width="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" title="Netlify" alt="Netlify" width="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>  
 </div>
+
+
+<div align="left">
+  <h2>
+    <img src="https://media.giphy.com/media/sFGSnuneX1lv1ScsFw/giphy.gif" width="50"/>My stats : </h2>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alheym&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alheym&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alheym/alheym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
