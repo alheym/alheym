@@ -74,13 +74,16 @@ I'm excited to share my work on GitHub and collaborate with other members of the
   <h2>
     <img src="https://media.giphy.com/media/sFGSnuneX1lv1ScsFw/giphy.gif" width="50"/>My stats : </h2>
 </div>
+<div align="center"> 
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alheym&theme=dark)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alheym&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alheym&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alheym/alheym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alheym&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
