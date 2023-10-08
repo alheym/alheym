@@ -26,7 +26,7 @@
   <h2><img src="https://media.giphy.com/media/sFGSnuneX1lv1ScsFw/giphy.gif" width="50"/>About me : </h2>
 </div>
 
-My name's Anastasia, and my nickname is Alheym. I'm frontend developer from Russia<img src="https://media.giphy.com/media/UXFWIX08KNkBVdg5Iy/giphy.gif" width="50"/>  
+My name's Anastasia, and my nickname is Alheym. I'm frontend developer <img src="https://media.giphy.com/media/UXFWIX08KNkBVdg5Iy/giphy.gif" width="50"/>  
 I'm only at the beginning of my career as a frontend developer, but I'm always looking for new challenges and opportunities to learn and grow in this direction.  
 I'm passionate about open source development, web development, web design, algorithms and graphic design.  
 In my free time, I like to knit sweaters and pet cats.  
