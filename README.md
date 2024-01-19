@@ -2,8 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODQ5NmI0ZGM0MTgyYmQzNDYxZmY5N2IzZjY3MDAxZTU0MTI3NDNkNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/CxzcZcrb3Eo4d0U5CU/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://www.instagram.com/alheym/">
-      <img src="https://img.shields.io/badge/Instagrm-ff69b4?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+    <a href="https://alheym.netlify.app/">
+      <img src="https://img.shields.io/badge/Portfolio-ff69b4?logo=Airbrake.io&logoColor=white&style=for-the-badge" alt="Portfolio Badge"/>
     </a>
     <a href="mailto:alheym.mw@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
@@ -41,9 +41,11 @@ I'm excited to share my work on GitHub and collaborate with other members of the
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Three.js" alt="Three.js" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" title="Zustand" alt="Zustand" height="40"/>&nbsp;
   <img src="https://pinia.vuejs.org/logo.svg" title="Pinia" alt="Pinia" width="40" height="40"/>&nbsp;
     </div>
      <div>
